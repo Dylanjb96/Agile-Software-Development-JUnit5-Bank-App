@@ -1,4 +1,4 @@
-# Agile Software Development - Assignment One 2024
+# Agile Software Development - Project 2024
 
 ## Overview
 This project involves creating a **JUnit 5 automated test suite** to test and refactor a Java application (`BankApp.java`). This project is for
