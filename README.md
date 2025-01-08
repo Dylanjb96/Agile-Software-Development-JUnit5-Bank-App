@@ -27,7 +27,3 @@ Agile Software Development.
 ## Submission Details
 - **Due Date**: 20/12/2024 at 4 PM.
 - **Instructor**: Dr. Martin Kenirons, Atlantic Technological University, Galway.
-
-## Notes
-- Ensure that all tests run successfully and meet the specified requirements.
-- Proper documentation and code comments are encouraged for clarity.
